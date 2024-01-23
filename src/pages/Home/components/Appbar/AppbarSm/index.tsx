@@ -29,7 +29,7 @@ export const AppbarSm = () => {
 							component="button"
 							variant="button"
 							sx={{
-								fontSize: '15px',
+								fontSize: '13px',
 								fontWeight: '500',
 								background: 'transparent',
 								border: 'none',
@@ -48,7 +48,7 @@ export const AppbarSm = () => {
 							component="button"
 							variant="button"
 							sx={{
-								fontSize: '15px',
+								fontSize: '13px',
 								fontWeight: '500',
 								background: 'transparent',
 								border: 'none',
@@ -67,7 +67,7 @@ export const AppbarSm = () => {
 							component="button"
 							variant="button"
 							sx={{
-								fontSize: '15px',
+								fontSize: '13px',
 								fontWeight: '500',
 								background: 'transparent',
 								border: 'none',
@@ -86,7 +86,7 @@ export const AppbarSm = () => {
 							component="button"
 							variant="button"
 							sx={{
-								fontSize: '15px',
+								fontSize: '13px',
 								fontWeight: '500',
 								color: '#fff',
 								background: '#000',

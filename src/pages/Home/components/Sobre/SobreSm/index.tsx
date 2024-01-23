@@ -12,7 +12,7 @@ export const SobreSm = () => {
 					justifyContent: 'center',
 					alignItems: 'center',
 					background: '#000',
-					pt: 5,
+					pt: 3,
 				}}
 			>
 				<Typography
@@ -29,7 +29,7 @@ export const SobreSm = () => {
 				columns={{ xs: 12, sm: 8, md: 6 }}
 				sx={{
 					width: '100%',
-					height: '400px',
+					height: '300px',
 					justifyContent: 'center',
 					alignItems: 'center',
 					flexDirection: 'column',
@@ -39,10 +39,11 @@ export const SobreSm = () => {
 				<Grid item xs={6} sm={4} md={3}>
 					<Typography
 						sx={{
-							fontSize: '13px',
+							fontSize: '10px',
 							color: '#fff',
 							textAlign: 'center',
 							pt: 4,
+							pl: 2,
 							mb: 2,
 						}}
 					>

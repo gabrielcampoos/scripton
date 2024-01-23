@@ -18,7 +18,7 @@ export const FooterSm = () => {
 				<Grid item xs={12} sm={3} md={2}>
 					<Typography
 						sx={{
-							fontSize: '15px',
+							fontSize: '13px',
 							fontWeight: 700,
 							textAlign: 'center',
 						}}
