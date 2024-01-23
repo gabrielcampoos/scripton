@@ -42,6 +42,8 @@ export const SobreSm = () => {
 							fontSize: '13px',
 							color: '#fff',
 							textAlign: 'center',
+							pt: 4,
+							mb: 2,
 						}}
 					>
 						Somos uma startup focada em desenvolver web sites,
